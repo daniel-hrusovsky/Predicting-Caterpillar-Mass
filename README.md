@@ -1,1 +1,3 @@
-# Predicting-Caterpillar-Mass
+# Predicting Caterpillar Mass
+
+A short analysis of 
